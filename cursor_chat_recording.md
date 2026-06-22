@@ -29,3 +29,12 @@
 - **Action:** Refactored Day 1 slides from instructor source to match `GUIDE.md` pedagogical sequence and Day 1 content.
 - **New slide topics:** agent ownership boundaries, `GUIDE.md` reference, Day 1 schedule-at-a-glance, project brief section, first safe issue, Day 1 exercises.
 - **File:** `slides/day1_slides.pdf` (48 pages).
+
+## 2026-06-22 — Issue #17: SDD skill and orchestrator bundled
+
+- **Source:** Instructor repo issue #17 (epic #15).
+- **Added:** `.cursor/skills/sdd/` (SKILL.md, reference.md, templates/), `.cursor/agents/sdd-orchestrator.md`
+- **Portable copies:** `agent-harness/skills/sdd/`, `agent-harness/subagents/sdd-orchestrator.md`
+- **Template:** `templates/spec/intent.md` (economics research intent stub)
+- **Docs:** `days/day2.md`, `agent-harness/README.md`, `tool-lanes/cursor.md`
+- **Verification:** `python3 -m pytest examples/mini-economics/tests` — 3 passed

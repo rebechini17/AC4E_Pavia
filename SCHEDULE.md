@@ -7,8 +7,9 @@ The workshop runs **09:30-15:30** each day, with five contact hours excluding lu
 | Time | Block |
 | --- | --- |
 | 09:30-09:45 | Kickoff |
-| 09:45-10:15 | Demo |
-| 10:15-11:30 | Sprint A |
+| 09:45-10:00 | Skills intro (Day 2) or orchestration demo (Day 3) |
+| 10:00-10:20 | SDD via `/sdd` demo (Day 2) or integration demo (Day 3) |
+| 10:20-11:30 | Sprint A |
 | 11:30-11:45 | Checkpoint |
 | 11:45-12:30 | Sprint B |
 | 12:30-13:30 | Lunch |

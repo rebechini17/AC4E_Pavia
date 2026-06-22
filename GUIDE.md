@@ -106,7 +106,7 @@ If one of these is missing, slow down.
 | Day 1 morning | Agent workflows, context, setup, repository orientation | tool-lane notes, setup verification |
 | Day 1 mid-day | Governance, privacy, GitHub basics | `AGENTS.md`, privacy notes, first branch or PR path |
 | Day 1 afternoon | Research question and project brief | `docs/project_brief.md`, initial backlog seed |
-| Day 2 morning | SDD, literature, design memo, data/model-input map | `docs/research_design_memo.md`, bibliography, data map |
+| Day 2 morning | Agent Skills, `/sdd`, literature, design memo, data/model-input map | `spec/` or memo-linked SDD artifacts, bibliography, data map |
 | Day 2 afternoon | Acceptance criteria, context patterns, skill/subagent planning | prioritized issues, `notes/context_patterns.md` |
 | Day 3 morning | Skills, subagents, orchestration, review loops | skill/subagent use, `notes/orchestration_log.md` |
 | Day 3 mid-day | Autonomous-agent risk | `agent-harness/autonomous_agent_risk_card.md` |

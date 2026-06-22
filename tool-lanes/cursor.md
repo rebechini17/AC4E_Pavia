@@ -18,6 +18,7 @@ Use this lane if you want an IDE-first workflow.
 
 - Use `AGENTS.md` for shared project context.
 - Add `.cursor/rules/` only when scoped rules help.
+- Use bundled **SDD** skill (`.cursor/skills/sdd/`) and **sdd-orchestrator** (`.cursor/agents/sdd-orchestrator.md`) for the Day 2 spec workflow.
 - Use Agent Skills and subagents if available in your version.
 - Use Cloud Agents only for branch-isolated work that you will review.
 - Review the diff and run tests before merging.

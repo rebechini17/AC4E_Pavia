@@ -3,7 +3,9 @@
 This folder contains portable agent assets:
 
 - `skills/replication-checker/SKILL.md`
+- `skills/sdd/SKILL.md` (templates in `skills/sdd/templates/`)
 - `subagents/pr-reviewer.md`
+- `subagents/sdd-orchestrator.md`
 - `autonomous_agent_risk_card.md`
 
 Copy these into tool-native locations only after reading them:
