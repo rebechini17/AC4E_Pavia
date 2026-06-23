@@ -2,12 +2,13 @@
 testpaths = [
     "examples/mini-economics/tests",
     "examples/card-krueger-toy/tests",
+    "agent-harness/mcp/fred/tests",
 ]
 pythonpath = [
     "examples/mini-economics/src",
     "examples/card-krueger-toy/src",
+    "agent-harness/mcp/fred/src",
 ]
 
 [tool.ruff]
 line-length = 100
-
